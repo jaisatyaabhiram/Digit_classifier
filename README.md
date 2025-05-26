@@ -38,10 +38,3 @@ We build and train a simple ANN from scratch using **TensorFlow and Keras** to c
 - 60,000 training images, 10,000 test images
 - Each image is 28x28 grayscale
 
----
-
-## 🚀 How to Run
-
-1. **Install dependencies**  
-   ```bash
-   pip install tensorflow matplotlib numpy
